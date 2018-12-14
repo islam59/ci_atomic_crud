@@ -1,0 +1,9 @@
+.form-control,.btn{
+	border-radius:0px;
+}
+.login-form{
+	margin-top:200px;
+	border:1px solid white; 
+	padding:10%;
+	background: orange;
+}
